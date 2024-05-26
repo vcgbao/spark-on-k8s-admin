@@ -21,7 +21,7 @@ spec:
 ````bash
 $ helm repo add spark-on-k8s-admin https://vcgbao.github.io/spark-on-k8s-admin/
 
-$ helm install spark-admin -n spark-on-k8s-admin -f values.yaml
+$ helm install spark-admin spark-on-k8s-admin/spark-on-k8s-admin -n spark-admin -f values.yaml
 ````
 Example `values.yaml` file
 
