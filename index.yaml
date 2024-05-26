@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  spark-on-k8s-admin:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-26T07:19:52.337414062Z"
+    description: A Helm chart for Kubernetes
+    digest: 39e5f8a5d6eaabee095b7e62b7f8557e44a9b3fbcc4b652d8ad291023dec1fd3
+    name: spark-on-k8s-admin
+    type: application
+    urls:
+    - https://github.com/vcgbao/spark-on-k8s-admin/releases/download/spark-on-k8s-admin-0.1.0/spark-on-k8s-admin-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-26T07:19:52.337419221Z"
