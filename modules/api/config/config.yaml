@@ -1,0 +1,12 @@
+port: 8080
+basePath:
+
+k8s:
+  serviceHost:
+  servicePort:
+  token: ""
+  inCluster: true
+spark:
+  namespace: spark-job
+
+sparkUI:
